@@ -39,7 +39,7 @@ To get a local copy up and running, follow these steps.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohdyasin4/codezard.ai.git
+   git clone https://github.com/codewithEvilxd/codezard.ai.git
    ```
 
 2. Navigate to the project directory:
@@ -105,7 +105,7 @@ Contributions are welcome! Feel free to submit issues, feature requests, or pull
 
 ## Connect with Me 🔗
 
-If you have any questions, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/mohdyasinn/).
+If you have any questions, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/).
 
 ---
 
